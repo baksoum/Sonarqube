@@ -1,4 +1,7 @@
 #!/bin/bash
+	#autor : Soumare Bakari
+	#Date : Feb 23/2022
+## Script for Sonarqube installation
 
 echo "Installation of Sonarqube in progress"
 echo 
